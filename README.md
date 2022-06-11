@@ -31,14 +31,14 @@
 <img src="https://github.com/rozodkarbharat/fraazos/blob/main/images/img1.png?raw=true"/>
 <div/>
   <div>
-<img src="./images/img2.png"/>
+<img src="https://github.com/rozodkarbharat/fraazos/blob/main/images/img2.png?raw=true"/>
 <div/>
     <div>
-<img src="./images/img3.png"/>
+<img src="https://github.com/rozodkarbharat/fraazos/blob/main/images/img3.png?raw=true"/>
 <div/>
       <div>
-<img src="./images/img4.png"/>
+<img src="https://github.com/rozodkarbharat/fraazos/blob/main/images/img4.png?raw=true"/>
 <div/>
         <div>
-<img src="./images/img5.png"/>
+<img src="https://github.com/rozodkarbharat/fraazos/blob/main/images/img5.png?raw=true"/>
 <div/>
