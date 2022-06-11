@@ -28,7 +28,7 @@
 
 <h3>Snippets</h3>
 <div>
-<img src="./images/img1.png"/>
+<img src="https://github.com/rozodkarbharat/fraazos/blob/main/images/img1.png?raw=true"/>
 <div/>
   <div>
 <img src="./images/img2.png"/>
